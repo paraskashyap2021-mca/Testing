@@ -3,7 +3,7 @@
 # health-monitor.sh — System Health Monitor (Capstone)
 # Collects CPU/memory/disk, compares to thresholds, logs, alerts,
 # and prunes its own old logs. Schedule via cron.
-#
+# git cong
 set -euo pipefail
 # ---------------- CONFIG (tune these) ----------------
 LOGFILE="${LOGFILE:-$HOME/health.log}"
