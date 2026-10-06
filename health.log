@@ -1,0 +1,6 @@
+2026-08-18 18:52:23 [INFO] ----- health check start -----
+2026-08-18 18:52:23 [INFO] CPU ok at 1%
+2026-08-18 18:52:23 [INFO] MEM ok at 14%
+2026-08-18 18:52:23 [INFO] DISK ok at 1%
+2026-08-18 18:52:23 [INFO] pruned logs older than 7 days in .
+2026-08-18 18:52:23 [INFO] ----- health check done -----
